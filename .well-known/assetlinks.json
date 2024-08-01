@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.codehospital.messagram",
+    "sha256_cert_fingerprints":
+    ["E4:6B:33:40:A5:15:26:9E:75:63:C9:DF:69:2A:B7:27:88:26:86:DF:8C:9B:47:7B:A4:CD:FD:C6:AA:31:15:22"]
+  }
+}]
