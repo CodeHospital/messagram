@@ -2,10 +2,10 @@
 
 ## projects.yml
 
-* `name`: Name of your project
-* `descr`: Description of your project
-* `demo`: Link to your project
-* `tags`: List of technologies you used in your projects
+* `name`: Messagram
+* `descr`: Receive and store your sms messages in telegram
+* `demo`: www.messagram.org
+* `tags`: Kotlin, Typescript
 
 Example of a project:
 
