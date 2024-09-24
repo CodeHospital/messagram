@@ -4,3 +4,5 @@ gem "dotenv"
 gem "github-pages"
 gem "jekyll"
 gem "jekyll-github-metadata"
+
+gem "faraday-retry", "~> 2.2"
