@@ -13,9 +13,19 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "",
+      "package_name": "com.codehospital.messagram",
       "sha256_cert_fingerprints": [
         "6D:91:19:7E:9D:16:56:EF:92:1A:03:70:34:24:D1:1F:66:3F:ED:1F:D8:4F:E1:79:3B:93:1B:39:EA:2D:40:83"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.codehospital.messagram",
+      "sha256_cert_fingerprints": [
+        "C7:EB:75:D5:48:71:6A:E5:35:6C:A2:1E:75:32:C1:AB:09:8A:88:7C:73:C9:9F:FB:3D:5D:EE:A0:5C:C7:2A:D1"
       ]
     }
   }
